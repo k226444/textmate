@@ -1,5 +1,5 @@
 # TextMate
-
+Works on macos 10.15
 ## Download
 
 You can [download TextMate from here](https://macromates.com/download).
